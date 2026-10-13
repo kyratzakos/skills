@@ -1,5 +1,5 @@
 # skills
-My personal directory of skills, straight from my .cursor and claude directory.
+My personal directory of skills, straight from my cursor and claude directory.
 
 ## Example:
 ```
